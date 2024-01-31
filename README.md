@@ -1,6 +1,7 @@
 # Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://github.com/Johannecarlos/portifolio-one/assets/94209719/65050311-7ee1-4b74-8b76-f7b8d927da8a)
+
 
 ## Ferramentas utilizadas:
 
